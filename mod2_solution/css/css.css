@@ -20,9 +20,13 @@ section{
     background-color: rgb(199, 150, 158);
     text-align: center;
     height: fit-content;
-    margin-left: 400px;
+    margin-right: 0px;
+    float: right;
     padding: 2px;
     margin-top: 0px;
+    position: relative;
+    
+
 
 }
 
@@ -31,8 +35,10 @@ section{
     background-color: rgb(216, 14, 14);
     text-align: center;
     height: fit-content;
-    margin-left: 400px;
+    margin-right: 0px;
     padding: 2px;
+    position: relative;
+    float: right;
 }
 
 .section-title3{
@@ -40,8 +46,10 @@ section{
     background-color: rgb(239, 231, 125);
     text-align: center;
     height: fit-content;
-    margin-left: 400px;
+    margin-right: 0px;
     padding: 2px;
+    position: relative;
+    float: right;
 }
 /*This is only for LARGE devices.*/
 @media (min-width: 992px) 
