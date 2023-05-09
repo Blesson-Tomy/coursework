@@ -6,11 +6,12 @@ font-size: 175%;
 
 section{
     background-color: rgb(163, 162, 162);
-    margin: 1px;
+    margin: 2px;
     border: 1px solid black;
     width: 100px;
     height: 140px;
     font-size: 100%;
+
     
 
 }
